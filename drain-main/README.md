@@ -24,7 +24,7 @@
 <img src="https://i.imgur.com/IKfrIqW.png" title="wallet support support" />
 
 ## Built With
-
+cx
 Fleek, IPFS, Polygon, Next.js, etc.
 
 ## EthMexico
